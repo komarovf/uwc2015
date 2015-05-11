@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+
+.content {
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#start {
+	min-width: 150px;
+}
+
+#errors {
+	color: red;
+	text-align: center;
+}
